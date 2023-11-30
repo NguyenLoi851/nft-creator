@@ -1,0 +1,9 @@
+[submodule "sc"]
+	path = sc
+	url = https://github.com/NguyenLoi851/nft-creator-sc
+[submodule "be"]
+	path = be
+	url = https://github.com/NguyenLoi851/nft-creator-be
+[submodule "fe"]
+	path = fe
+	url = https://github.com/phuongfunny/nft-creator-fe
